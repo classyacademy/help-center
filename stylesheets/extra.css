@@ -1,0 +1,93 @@
+/* Update background color */
+[data-md-color-scheme="classy"] {
+  --md-primary-fg-color: #3654b2;
+  --md-accent-fg-color: #3654b2;
+  --md-primary-fg-color--light: #ecb7b7;
+  --md-primary-fg-color--dark: #90030c;
+}
+
+.md-content__inner {
+  max-width: 70ch;
+}
+
+p > img {
+  display: block;
+  margin: auto;
+  padding: 0;
+  margin: 2rem 0;
+  border: 2px solid #2d2e31;
+  border-radius: 4px;
+  box-shadow: 10px 10px #b3afa7;
+}
+
+.md-nav--primary .md-nav__link,
+.md-nav--secondary .md-nav__link {
+  border-left: 2px solid rgba(0, 0, 0, 0);
+  font-weight: 500;
+  padding-left: 0.8rem;
+}
+
+.md-nav--primary .md-nav__link--active,
+.md-nav--secondary .md-nav__link--active {
+  background-color: rgba(208, 215, 222, 0.24);
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  color: #374ca0;
+  border-left-color: #425cc3;
+  font-weight: 500;
+}
+
+.md-nav__link {
+  padding: 4px;
+  transition: none;
+}
+
+.md-nav--primary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link:hover {
+  color: #374ca0;
+  background: rgba(208, 215, 222, 0.24);
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.md-nav--secondary .md-nav__list .md-nav__item {
+  font-size: 16px;
+  font-weight: 400;
+  display: block;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+/* Feature and bug release note tags */
+
+.tag {
+  border: solid 1px;
+  padding: 0.25rem;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.tag--feature {
+  color: #006644;
+}
+
+.tag--bug {
+  color: #de350b;
+}
+
+/* Replace article title with Navigation */
+/* label.md-nav__link {
+  visibility: hidden;
+  position: relative;
+}
+
+label.md-nav__link:after {
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "Navigation";
+} */
