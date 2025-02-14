@@ -4,20 +4,17 @@ img { width: 50%; margin:auto!important; }
 
 # Multifactor authentication
 
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/6lm50yekgi?web_component=true&seo=true" title="Setting up multifactor authentication Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/player.js" async></script>
+
 Multifactor authentication (MFA) is a user verification method that requires more than one type of validation, such as a password and a one-time passcode (OTP). It helps prevent unauthorized account access even if someone has the username and password.
 
-During Early Access, you can use MFA for your organization’s Classy account. This will require admins to enter their password and OTP via Google Authenticator on a mobile device to access your account.
-
-Want to preview the set up experience? [View this Storylane walkthrough](https://app.storylane.io/share/eqzllyenh5tm)
+During Early Access, you can use MFA for your organization’s Classy account. This will require admins to enter their password and verification code via their phone, Google Authenticator, or Okta Verify to access your account.
 
 !!! abstract "To set up and use MFA, you'll need a:"
 
     * Computer
-    * Phone
-
-    **Want to participate?**
-
-    [Sign up to join Classy's MFA beta program.](https://learn.classy.org/mfa-beta-program.html?utm_source=early-access&utm_medium=help-center&utm_campaign=beta-program)
+    * Mobile device
 
 ## Why is it important?
 
