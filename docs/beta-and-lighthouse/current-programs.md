@@ -6,16 +6,6 @@ Discover the latest features currently in beta and other ways to partner with us
 
 These programs are currently in beta or coming soon. Sign up to participate or join the waitlist.
 
-### Multifactor authentication
-
-**Current status:** Closed beta
-
-Classy's multi-factor authentication (MFA) solution is rooted in data security and protecting sensitive information. Our MFA beta program will specifically focus on authentication using the Okta Verify authenticator app and one-time passcode (OTP) feature.
-
-[Sign up to join](https://learn.classy.org/mfa-beta-program.html?utm_source=early-access&utm_medium=help-center&utm_campaign=beta-program)
-
-[Learn more about MFA](/help-center/multifactor-authentication/)
-
 ### Classy Live: Mobile app + M2 Readers
 
 **Current status:** Open beta
@@ -38,7 +28,7 @@ Donor Covered Fees, also known as a fee on top, help nonprofits receive more of 
 
 ### Classy Live: Group registration
 
-**Current status:** Open Beta
+**Current status:** Open beta
 
 Event registration experience for groups and sponsors to manage their information across multiple attendees. The Classy Live Group Registration Management solution provides a simplified approach for admins to maintain control and streamline the day-of-event experience.
 
@@ -69,6 +59,14 @@ Test and provide feedback on new designs, prototypes, and products with quick on
 ## Past programs
 
 These programs are now available to all Classy customers.
+
+### Multifactor authentication
+
+**Current status:** General availability
+
+Classy's multi-factor authentication (MFA) solution is rooted in data security and protecting sensitive information. Our MFA beta program will specifically focus on authentication using the Okta Verify authenticator app and one-time passcode (OTP) feature.
+
+[Learn more about MFA](/help-center/multifactor-authentication/)
 
 ### Campaign insights
 

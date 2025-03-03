@@ -82,6 +82,7 @@ plugins:
         "embedded-studio/embedded-studio-settings.md": "https://support.classy.org/s/article/more-embedded-form-customizations"
         "embedded-studio/troubleshooting-embedded-campaigns.md": "https://support.classy.org/s/article/troubleshoot-embedded-donation-forms"
         "embedded-studio/embed-a-donation-form-on-wordpress.md": "https://support.classy.org/s/article/add-an-embedded-donation-form-to-wordpress"
+        "multifactor-authentication.md": "https://support.classy.org/s/article/multifactor-authentication"
 
 extra:
   analytics:
@@ -97,5 +98,4 @@ nav:
       - Mobile app: classy-live/mobile-app.md
       - Reader M2: classy-live/reader-m2.md
       - Import attendees: classy-live/import-attendees.md
-  - Multifactor authentication: multifactor-authentication.md
   - Current programs: beta-and-lighthouse/current-programs.md
