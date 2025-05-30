@@ -99,7 +99,13 @@ Once recognized, the app will display a confirmation message.
 
 !!! question "Need help connecting?"
 
-    If your device and the M2 are not connecting, ensure Bluetooth and the Reader M2 are turned on. For more help, view [Stripe’s documentation on setting up the Stripe Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2).
+    If your device isn’t connecting to the M2 reader, try these quick checks:
+
+    1. Make sure Bluetooth is turned on
+    2. Confirm the reader is powered on and fully charged
+    3. Check that you’re using the latest version of the mobile app
+
+    Still not working? [View our troubleshooting steps](/help-center/classy-live/reader-m2#troubleshooting).
 
 ### Connect to the card reader
 

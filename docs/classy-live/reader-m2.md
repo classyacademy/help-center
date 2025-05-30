@@ -34,10 +34,6 @@ Here's how the M2 compares to the WisePOS E card readers:
 | **Feature**         | Add payment method                                                                         | Add payment method                                                                        |
 | **Requirements**    | Password-protected WiFi network                                                            | Compatible smartphone or tablet with the Classy Live mobile app                           |
 
-!!! warning "Important"
-
-    When adding an American Express card, insert it into the reader rather than tapping to complete the process.
-
 ## Order a card reader
 
 To purchase a reader:
@@ -84,3 +80,15 @@ If the Reader M2 isn't connecting to your mobile device, you should:
 - Ensure it is turned on and charged. You can check this by pressing the button on the left-hand side.
 
 For more help, visit [Stripe's documentation for the Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2)
+
+**Check that you're using the latest version of the mobile app**
+
+We’re always making the mobile app better, so using the latest version helps you avoid bugs and stay up to date.
+
+Here’s how to check your version:
+
+1. Open the app and go to **Events**
+2. Tap the **profile icon**
+3. Scroll past the **Log out** button to find your version number
+
+You should be using **version 0.6.2 or later**.
