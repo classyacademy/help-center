@@ -1,7 +1,7 @@
 #===================================================================================#
 # Project information
 #===================================================================================#
-site_name: Classy Early Access
+site_name: GoFundMe Pro Early Access
 extra_css:
   - stylesheets/extra.css
 
@@ -94,7 +94,7 @@ extra:
 #===================================================================================#
 nav:
   - Home: index.md
-  - Classy Live:
+  - Live Events:
       - Mobile app: classy-live/mobile-app.md
       - Reader M2: classy-live/reader-m2.md
       - Import attendees: classy-live/import-attendees.md
