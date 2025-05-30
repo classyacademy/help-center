@@ -64,28 +64,26 @@ Before your event, be sure to connect your reader. The first time you connect, y
 
 ## Troubleshooting
 
-If the Reader M2 isn't connecting to your mobile device, you should:
+If your Reader M2 isn’t connecting to your mobile device, try these steps:
 
-**Check the mobile device's settings**
+1. **Check your mobile device’s settings**
 
 - Ensure both Bluetooth and Location settings are turned on
 - Ensure the Classy Live app has permission to use your device’s Bluetooth and Location
+- [View Apple's guide to Location settings](https://support.apple.com/en-us/102515)
+- [View Google's guide to Location settings](https://support.google.com/accounts/answer/3467281?hl=en)
 
-[Visit Apple's documentation for Location settings](https://support.apple.com/en-us/102515)
+2. **Check the card reader's battery**
 
-[Visit Google's documentation for Location settings](https://support.google.com/accounts/answer/3467281?hl=en)
+- Press the button on the left-hand side of the reader
+- If no lights appear, the reader may need to be charged or turned on
+- [View Stripe's guide for Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2)
 
-**Check the card reader's battery**
+3. **Make sure you're using the latest version of the mobile app**
 
-- Ensure it is turned on and charged. You can check this by pressing the button on the left-hand side.
+We’re always improving the mobile app, so staying up to date helps avoid connection issues.
 
-For more help, visit [Stripe's documentation for the Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2)
-
-**Check that you're using the latest version of the mobile app**
-
-We’re always making the mobile app better, so using the latest version helps you avoid bugs and stay up to date.
-
-Here’s how to check your version:
+To check your app version:
 
 1. Open the app and go to **Events**
 2. Tap the **profile icon**
